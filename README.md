@@ -14,10 +14,10 @@ To get It running locally:
 
 ## Usage:
 
-Visit [https://birthday-wisher-ten.vercel.app/]()
+Visit https://birthday-wisher-ten.vercel.app/
 
 Click on Generate Link
-or Head to [https://birthday-wisher-ten.vercel.app/generate]()
+or Head to https://birthday-wisher-ten.vercel.app/generate
 
 Enter the `name , day , month of birthday`
 
