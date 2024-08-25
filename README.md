@@ -4,7 +4,7 @@ Made with React with Hooks.
 
 ## Getting started
 
-You can view a live demo over at https://birthday-wisher-ten.vercel.app/
+You can view a live demo over at https://birthday-wisher-prakyath.vercel.app/
 
 To get It running locally:
 
@@ -14,10 +14,10 @@ To get It running locally:
 
 ## Usage:
 
-Visit https://birthday-wisher-ten.vercel.app/
+Visit https://birthday-wisher-prakyath.vercel.app/
 
 Click on Generate Link
-or Head to https://birthday-wisher-ten.vercel.app/generate
+or Head to https://birthday-wisher-prakyath.vercel.app/generate
 
 Enter the `name , day , month of birthday`
 
